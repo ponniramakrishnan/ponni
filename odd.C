@@ -6,9 +6,9 @@ printf("Enter the intervals");
 scanf("%d","%d",&a,&b);
 while(a<b)
 {
-  if((a%2)!==0
+  if((a%2)!==0)
   {
-    printf("%d",i);
+    printf("%d",a);
    }
    a++;
 }
